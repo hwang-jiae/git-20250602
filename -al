@@ -1,0 +1,54 @@
+[33mcommit 58226f1123cc0494eaf72f836ab313b65f75ab3a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: hwang-jiae <leeloo.hja@gmail.com>
+Date:   Mon Jun 2 13:51:38 2025 +0900
+
+    자료입력하고  수정 두번했으나...커밋은 1로 뜸....자료수정 내 파일에서 여러번해도 커밋을 안하면...기존 수정한 자료도 커밋 1로 포함...
+
+[33mcommit 06183359e426c890c7645eaaff48c63997320d79[m
+Author: hwang-jiae <leeloo.hja@gmail.com>
+Date:   Mon Jun 2 13:33:28 2025 +0900
+
+    Update 20250602_2.txt
+    
+    원격에서 3번째 줄 입력해봄
+
+[33mcommit 14e18a16e815413fc11e2f00de546aea53eaad67[m
+Merge: 2c7ff0a 545814f
+Author: hwang-jiae <leeloo.hja@gmail.com>
+Date:   Mon Jun 2 13:08:47 2025 +0900
+
+    Merge branch 'master' of https://github.com/hwang-jiae/git-20250602
+
+[33mcommit 545814f3d0c7f988ae17235a7ed479c2dd679632[m
+Author: hwang-jiae <leeloo.hja@gmail.com>
+Date:   Mon Jun 2 13:05:47 2025 +0900
+
+    Update 20250602_2.txt
+    
+    원격에서 자료수정
+
+[33mcommit 2c7ff0a94720beddfa7b8579528d55c955fa4e49[m
+Author: hwang-jiae <leeloo.hja@gmail.com>
+Date:   Mon Jun 2 13:04:43 2025 +0900
+
+    원격에서 만든문서 ->메모장으로 변경처리
+
+[33mcommit a6918c9e6c8c28ca4e5aba4df983576db1c56f85[m
+Author: hwang-jiae <leeloo.hja@gmail.com>
+Date:   Mon Jun 2 13:01:09 2025 +0900
+
+    Create 20050602-오후1시
+    
+    원격저장소에서 만든 문서 원격저장소->내컴깃에 서장되는지 확인
+
+[33mcommit e28881424f0b6d6ab577eed0662e351ada9db239[m
+Author: hwang-jiae <leeloo.hja@gmail.com>
+Date:   Mon Jun 2 12:55:08 2025 +0900
+
+    no message
+
+[33mcommit 0e519b14dedeec462b08bd77eaf13cf630eef133[m
+Author: hwang-jiae <leeloo.hja@gmail.com>
+Date:   Mon Jun 2 11:46:17 2025 +0900
+
+    2025.6.2 폴더 만들고 깃 지정 및 소스트리  add 바로 해봄  문서2개 만들고 깃허브 연결작업까지 테스트 해볼 예정
